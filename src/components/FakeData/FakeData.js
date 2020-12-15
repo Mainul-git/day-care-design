@@ -14,7 +14,8 @@ Wednesday:- 8:00 Am - 7:00 Pm
 Thursday:- 8:00 Am - 7:00 Pm
 Friday:- 8:00 Am - 7:00 Pm
 Saturday:- 8:00 Am - 7:00 Pm
-Sunday:- Closed`,
+Sunday:- Closed
+[N.B.:- It can be changed as your requirement .For further details ,contact with us. ]`,
 features:`Stellar Reviews. ...
 A Caring, Stimulating Environment With Happy Kids. ...
 An Interesting and Varied Schedule or Curriculum. ...
@@ -44,7 +45,8 @@ Wednesday:- 8:00 Am - 7:00 Pm
 Thursday:- 8:00 Am - 7:00 Pm
 Friday:- 8:00 Am - 7:00 Pm
 Saturday:-Closed
-Sunday:-  8:00 Am - 7:00 Pm`,
+Sunday:-  8:00 Am - 7:00 Pm
+[N.B.:- It can be changed as your requirement .For further details ,contact with us. ]`,
 features:`Stellar Reviews. ...
 A Caring, Stimulating Environment With Happy Kids. ...
 An Interesting and Varied Schedule or Curriculum. ...
@@ -75,7 +77,8 @@ Wednesday:- 8:00 Am - 7:00 Pm
 Thursday:- 8:00 Am - 7:00 Pm
 Friday:- 8:00 Am - 7:00 Pm
 Saturday:- 8:00 Am - 7:00 Pm
-Sunday:- 8:00 Am - 7:00 Pm`,
+Sunday:- 8:00 Am - 7:00 Pm
+[N.B.:- It can be changed as your requirement .For further details ,contact with us. ]`,
 features:`Stellar Reviews. ...
 A Caring, Stimulating Environment With Happy Kids. ...
 An Interesting and Varied Schedule or Curriculum. ...
@@ -106,7 +109,8 @@ Wednesday:- 8:00 Am - 7:00 Pm
 Thursday:- 8:00 Am - 7:00 Pm
 Friday:- 8:00 Am - 7:00 Pm
 Saturday:- 8:00 Am - 7:00 Pm
-Sunday:- Closed`,
+Sunday:- Closed
+[N.B.:- It can be changed as your requirement .For further details ,contact with us. ]`,
 features:`Stellar Reviews. ...
 A Caring, Stimulating Environment With Happy Kids. ...
 An Interesting and Varied Schedule or Curriculum. ...
@@ -135,7 +139,8 @@ Wednesday:- 8:00 Am - 7:00 Pm
 Thursday:- 8:00 Am - 7:00 Pm
 Friday:- 8:00 Am - 7:00 Pm
 Saturday:- 8:00 Am - 7:00 Pm
-Sunday:- Closed`,
+Sunday:- Closed
+[N.B.:- It can be changed as your requirement .For further details ,contact with us. ]`,
 features:`Stellar Reviews. ...
 A Caring, Stimulating Environment With Happy Kids. ...
 An Interesting and Varied Schedule or Curriculum. ...
@@ -164,7 +169,8 @@ Wednesday:- 8:00 Am - 7:00 Pm
 Thursday:- 8:00 Am - 7:00 Pm
 Friday:- 8:00 Am - 7:00 Pm
 Saturday:- 8:00 Am - 7:00 Pm
-Sunday:- Closed`,
+Sunday:- Closed
+[N.B.:- It can be changed as your requirement .For further details ,contact with us. ]`,
 features:`Stellar Reviews. ...
 A Caring, Stimulating Environment With Happy Kids. ...
 An Interesting and Varied Schedule or Curriculum. ...
@@ -175,7 +181,8 @@ Established Policies and Consistent Rules.`,
 otherInfo:`The staff are trained and supervised.
 There are more resources and equipment available.
 Care is still available when a staff member is absent.
-The centers are more likely to be licensed and subject to state regulati
+The centers are more likely to be licensed and subject to state regulati,
+
 
 
 Read more: http://www.healthofchildren.com/D/Day-Care.html#ixzz6gh3KfJH7`
@@ -194,7 +201,9 @@ Wednesday:- 8:00 Am - 7:00 Pm
 Thursday:- 8:00 Am - 7:00 Pm
 Friday:- Closed
 Saturday:- 8:00 Am - 7:00 Pm
-Sunday:- 8:00 Am - 7:00 Pm`,
+Sunday:- 8:00 Am - 7:00 Pm
+[N.B.:- It can be changed as your requirement .For further details ,contact with us. ]
+`,
 features:`Stellar Reviews. ...
 A Caring, Stimulating Environment With Happy Kids. ...
 An Interesting and Varied Schedule or Curriculum. ...
