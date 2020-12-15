@@ -1,0 +1,12 @@
+.card-second{
+   
+    opacity: .7;
+}
+.second-img{
+    filter:brightness(40%);
+    height:400px;
+}
+.icon-second{
+    height:50px;
+    
+}

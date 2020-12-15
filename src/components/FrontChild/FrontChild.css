@@ -1,0 +1,8 @@
+.image-front{
+    height:300px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.icon{
+    color:black
+}
