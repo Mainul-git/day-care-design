@@ -6,3 +6,12 @@
 .icon{
     color:black
 }
+@media(max-width:576px){
+    .card{
+        width:100%;
+        contain:content;
+        display: inline-block;
+      
+    }
+   
+}
